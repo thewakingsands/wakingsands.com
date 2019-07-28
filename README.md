@@ -8,6 +8,6 @@
 * [交互地图](https://map.wakingsands.com) - 全游戏地图，含标注
 * [文本检索](https://strings.wakingsands.com) - 全游戏中英日文本检索
 * [CafeMaker](https://cafemaker.wakingsands.com) - XIVAPI 国服版
-* [CafeKit](https://cafekit.wakingsands.com) - 游戏数据悬浮窗，攻略站必备
+* [CafeKit](https://unpkg.cnpmjs.org/@thewakingsands/kit-tooltip@0.2.0/dist/example/auto.html) - 游戏数据悬浮窗，攻略站必备
 * [爱发电](https://afdian.net/@wakingsands) - 捐助/投食
 * 交流/反馈 QQ 群 612370226
